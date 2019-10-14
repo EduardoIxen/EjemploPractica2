@@ -1,0 +1,21 @@
+NIVEL: nivel: 1, distancia_maxima:600, distancia_pantalla:120, velocidad_corriente:15, tiempo_nivel:70,tiempo_sumergir:5, puntos_seleccion:20, puntos_sel_sumergir:30
+NIVEL: tiempo_sumergir:5, puntos_seleccion:20, puntos_sel_sumergir:30, nivel: 2, distancia_maxima:600,distancia_pantalla:120, velocidad_corriente:15, tiempo_nivel:70
+NIVEL: puntos_seleccion:20, puntos_sel_sumergir:30, nivel: 3, distancia_maxima:600, distancia_pantalla:120,velocidad_corriente:15, tiempo_nivel:70, tiempo_sumergir:5
+NIVEL: distancia_pantalla:120, velocidad_corriente:15, nivel: 4, distancia_maxima:600, tiempo_nivel:70,tiempo_sumergir:5, puntos_seleccion:20, puntos_sel_sumergir:300
+NIVEL: nivel: 5, distancia_maxima:600, distancia_pantalla:120, velocidad_corriente:15, tiempo_nivel:70,tiempo_sumergir:5, puntos_seleccion:20, puntos_sel_sumergir:30
+NIVEL: tiempo_sumergir:5, puntos_seleccion:20, puntos_sel_sumergir:30, nivel: 6, distancia_maxima:600,distancia_pantalla:120, velocidad_corriente:15, tiempo_nivel:70
+NIVEL: puntos_seleccion:20, puntos_sel_sumergir:30, nivel: 7, distancia_maxima:600, distancia_pantalla:120,velocidad_corriente:15, tiempo_nivel:70, tiempo_sumergir:5
+NIVEL: distancia_pantalla:120, velocidad_corriente:15, nivel: 8, distancia_maxima:600, tiempo_nivel:70,tiempo_sumergir:5, puntos_seleccion:20, puntos_sel_sumergir:300
+
+
+PERSONAJE**personaje1**C:\Users\usuario\imagenes\p1.jpg
+PERSONAJE**personaje1**C:\Users\usuario\imagenes\p1.jpg
+PERSONAJE**personaje2**C:\Users\usuario\imagenes\p2.jpg
+PERSONAJE**personaje3**C:\Users\usuario\imagenes\p3.jpg
+PERSONAJE**personaje4**C:\Users\usuario\imagenes\p4.jpg
+PERSONAJE**personaje5**C:\Users\usuario\imagenes\p5.jpg
+PERSONAJE**personaje6**C:\Users\usuario\imagenes\p6.jpg
+PERSONAJE**personaje7**C:\Users\usuario\imagenes\p7.jpg
+PERSONAJE**personaje8**C:\Users\usuario\imagenes\p8.jpg
+PERSONAJE**personaje9**C:\Users\usuario\imagenes\p9.jpg
+PERSONAJE**personaje10**C:\Users\usuario\imagenes\p10.jpg
